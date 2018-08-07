@@ -1,0 +1,46 @@
+.jumbotron {
+    min-width: 400px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(2, 22, 36); 
+    display: inline-block;
+    border-radius: 20px;
+}
+
+body {
+    background-color: #250307;
+}
+
+.container {
+    text-align: center;
+}
+
+.titulo {
+    margin-top: -50px;
+    font-size: 40px;
+    color: white
+}
+
+.contato {
+    color: white
+}
+
+.btn-dark {
+    margin-top: 9px;
+    margin-bottom: -50px;
+    background-color: rgb(14, 79, 122)
+}
+
+.form-control {
+    margin-bottom: 5px;
+}
+
+.coluna {
+    background-color: rgb(6, 39, 61)
+}
+
+.linhas {
+    background-color: rgb(14, 79, 122)
+}
